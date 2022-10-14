@@ -1,0 +1,9 @@
+# About
+This dataset contains information collected by the U.S Census Service concerning housing in the area of Boston Mass.
+The data was originally published by Harrison, D. and Rubinfeld, D.L. `Hedonic prices and the demand for clean air', J. Environ. Economics & Management, vol.5, 81-102, 1978.
+
+# Dataset Naming
+The name for this dataset is simply boston. It has two prototasks: nox, in which the nitrous oxide level is to be predicted; and price, in which the median value of a home is to be predicted.
+
+# Source
+https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html
